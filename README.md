@@ -1,4 +1,3 @@
-# Landing_pange
 
 # Features
 
